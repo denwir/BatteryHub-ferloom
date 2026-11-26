@@ -10,6 +10,7 @@ in about <b>0.2 MB of RAM</b>.
 
 <p align="center">
 <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/ferloom/Wireless-Device-Battery-Monitor?label=download&logo=windows" alt="Latest release"></a>
+<a href="../../releases"><img src="https://img.shields.io/github/downloads/ferloom/Wireless-Device-Battery-Monitor/total?label=downloads&logo=github" alt="Total downloads"></a>
 <a href="../../actions/workflows/ci.yml"><img src="../../actions/workflows/ci.yml/badge.svg" alt="CI"></a>
 <img src="https://img.shields.io/badge/written%20in-Rust-dea584?logo=rust" alt="Written in Rust">
 <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0">
